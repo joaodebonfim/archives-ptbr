@@ -1,6 +1,6 @@
 # 📁 Archives-PTBR
 
-> **Contribuição para servidores FiveM:** Traduções para Português Brasileiro (PT-BR) e modificações otimizadas para a base do seu servidor.
+> **Contribuição para FiveM:** Traduções para PT-BR e otimizações.
 
 ---
 
