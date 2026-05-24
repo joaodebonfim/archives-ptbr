@@ -1,20 +1,13 @@
-# archives-ptbr
+# 📁 Archives-PTBR
 
-Contribuição para servidores FIVEM em configurações para Português Brasileiro, além de outras modificações.
+> **Contribuição para servidores FiveM:** Traduções para Português Brasileiro (PT-BR) e modificações otimizadas para a base do seu servidor.
 
-# Dealership
 ---
 
-`lua
-Vehicles.lua representa os preços na concessionária. Procure-os colocar no core.`
+## 🏎️ Dealership (Concessionária)
 
-A câmera do celular apresentará erro de não setup. Para corrigir, siga o processo:
-
-### Discord:
-
-* Clique em **Novo Webhook**
-* Clique em **Copiar URL do Webhook**
-* Cole `webHook` em `server/main.lua` (phone/server/main.lua)
+Os arquivos de configuração de preços foram movidos ou devem ser integrados para garantir o funcionamento correto do sistema:
 
 ```lua
-local WebHook = ""
+-- Vehicles.lua representa os preços na concessionária.
+-- RECOMENDAÇÃO: Procure inseri-los diretamente no 'core' do script.
