@@ -1,5 +1,7 @@
 # archives-ptbr
 
+Contribuição para servidores FIVEM em configurações para Português Brasileiro, além de outras modificações.
+
 # Configurar Webhook `server/main.lua` para Phone/Camera
 ---
 
@@ -13,3 +15,8 @@ A câmera do celular apresentará erro de não setup. Para corrigir, siga o proc
 
 ```lua
 local WebHook = ""
+
+# Dealership
+---
+
+```Vehicles.lua representa os preços na concessionária. Procure-os colocar no core.
