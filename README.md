@@ -4,9 +4,9 @@
 
 ---
 
-> ## 📱 Camera Not Setup (Phone)
+## 📱 Camera Not Setup (Phone)
 
-
+> Integração necessária com o Discord:
 ```Localização: server/main.lua
 local WebHook = "SUA_URL_DO_DISCORD_AQUI"
 ```
