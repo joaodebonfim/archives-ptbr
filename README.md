@@ -8,7 +8,7 @@
 
 
 ```Localização: server/main.lua
-local WebHook = "SUA_URL_DO_DISCORD_AQUI"```
+```local WebHook = "SUA_URL_DO_DISCORD_AQUI"
 
 ---
 
