@@ -5,8 +5,8 @@ Contribuição para servidores FIVEM em configurações para Português Brasilei
 # Dealership
 ---
 
-```lua
-Vehicles.lua representa os preços na concessionária. Procure-os colocar no core.```
+`lua
+Vehicles.lua representa os preços na concessionária. Procure-os colocar no core.`
 
 A câmera do celular apresentará erro de não setup. Para corrigir, siga o processo:
 
