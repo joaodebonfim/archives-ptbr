@@ -11,3 +11,6 @@ Os arquivos de configuração de preços foram movidos ou devem ser integrados p
 ```lua
 -- Vehicles.lua representa os preços na concessionária.
 -- RECOMENDAÇÃO: Procure inseri-los diretamente no 'core' do script.
+
+-- Localização: server/main.lua
+local WebHook = "SUA_URL_DO_DISCORD_AQUI"
