@@ -12,8 +12,3 @@ A câmera do celular apresentará erro de não setup. Para corrigir, siga o proc
 
 ```lua
 local WebHook = ""
-
-# Dealership
----
-
-```Vehicles.lua representa os preços na concessionária. Procure-os colocar no core.
