@@ -2,9 +2,6 @@
 
 Contribuição para servidores FIVEM em configurações para Português Brasileiro, além de outras modificações.
 
-# Configurar Webhook `server/main.lua` para Phone/Camera
----
-
 A câmera do celular apresentará erro de não setup. Para corrigir, siga o processo:
 
 ### Discord:
