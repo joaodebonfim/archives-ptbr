@@ -5,7 +5,7 @@
 
 A câmera do celular apresentará erro de não setup. Para corrigir, siga o processo:
 
-### Para usar o Discord:
+### Discord:
 
 * Clique em **Novo Webhook**
 * Clique em **Copiar URL do Webhook**
