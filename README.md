@@ -9,7 +9,7 @@ Defina a seguinte variável para o seu webhook (por exemplo, um webhook de um ca
 
 * Clique em **Novo Webhook**
 * Clique em **Copiar URL do Webhook**
-* Cole `webHook` em `server/main.lua`
+* Cole `webHook` em `server/main.lua` (phone/server/main.lua)
 
 ```lua
 local WebHook = ""
