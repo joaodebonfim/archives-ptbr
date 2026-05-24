@@ -3,7 +3,7 @@
 # Configurar Webhook `server/main.lua` para Phone/Camera
 ---
 
-Defina a seguinte variável para o seu webhook (por exemplo, um webhook de um canal do Discord ou do Imgur).
+A câmera do celular apresentará erro de não setup. Para corrigir, siga o processo:
 
 ### Para usar o Discord:
 
