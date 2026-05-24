@@ -4,7 +4,7 @@
 
 ---
 
-## 📱 Camera Not Setup (Phone)
+> ## 📱 Camera Not Setup (Phone)
 
 
 ```Localização: server/main.lua
@@ -12,7 +12,7 @@ local WebHook = "SUA_URL_DO_DISCORD_AQUI"
 ```
 ---
 
-## 🚗 Dealership 
+> ## 🚗 Dealership 
 
 Os arquivos de configuração de preços foram movidos ou devem ser integrados para garantir o funcionamento correto do sistema:
 
