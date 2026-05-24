@@ -1,6 +1,6 @@
-# 📁 Archives-PTBR
+# archives-ptbr
 
-**Contribuição para FiveM:** Traduções para PT-BR e otimizações.
+**FiveM:** Traduções para PT-BR e otimizações.
 
 ---
 
