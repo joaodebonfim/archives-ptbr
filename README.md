@@ -7,7 +7,7 @@
 ## 📱 Camera Not Setup (Phone)
 
 
-Localização: server/main.lua
+```Localização: server/main.lua
 local WebHook = "SUA_URL_DO_DISCORD_AQUI"
 
 ---
