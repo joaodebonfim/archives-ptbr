@@ -14,8 +14,8 @@ local WebHook = "SUA_URL_DO_DISCORD_AQUI"
 
 ## 🚗 Dealership 
 
-Os arquivos de configuração de preços foram movidos ou devem ser integrados para garantir o funcionamento correto do sistema:
+> Os arquivos de configuração de preços foram movidos ou devem ser integrados para garantir o funcionamento correto do sistema:
 
-> ```lua
+```lua
 Vehicles.lua representa os preços na concessionária.
 Coloque-os no shared/vehicles do seu servidor.
