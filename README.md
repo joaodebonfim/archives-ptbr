@@ -4,6 +4,15 @@
 
 ---
 
+## 📁 Arquivos .myqsl 
+
+> Integração necessária com o Discord:
+```
+local WebHook = "SUA_URL_DO_DISCORD_AQUI"
+Localização: server/main.lua
+```
+---
+
 ## 📱 Camera Not Setup (Phone)
 
 > Integração necessária com o Discord:
