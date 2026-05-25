@@ -4,7 +4,7 @@
 
 ---
 
-## 📁 Arquivos .myqsl 
+## 📁 Arquivos .mysql 
 
 > Importe todos juntos em seu phpMyAdmin ou MariaDB.
 ```
