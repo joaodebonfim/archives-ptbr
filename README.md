@@ -6,10 +6,10 @@
 
 ## 📁 Arquivos .myqsl 
 
-> Integração necessária com o Discord:
+> Importe todos juntos em seu phpMyAdmin ou MariaDB.
 ```
-local WebHook = "SUA_URL_DO_DISCORD_AQUI"
-Localização: server/main.lua
+Todos os arquivos já possuem o CREATE TABLE IF NOT EXISTS pré-programados.
+Em caso de erros, vá em Operações -> Excluir (phpMyAdmin).
 ```
 ---
 
